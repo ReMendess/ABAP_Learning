@@ -24,30 +24,35 @@ ld_desc = 'Primeiro Cliente, que compra bastante'.
 ld_login = '1'.
 
 *Printando Dados na Tela
-WRITE 'Dados do Cliente'.
+WRITE (15) 'Dados do Cliente'.
 NEW-LINE.
 
-WRITE 'ID'.
-WRITE ld_id.
+WRITE (15) 'ID'.
+WRITE ld_id LEFT-JUSTIFIED.
 NEW-LINE.
 
-WRITE 'Nome'.
-WRITE ld_nome.
+WRITE (15) 'Nome'.
+WRITE ld_nome LEFT-JUSTIFIED.
 NEW-LINE.
 
 WRITE 'Data de Nascimento'.
-WRITE ld_dtnasci.
-WRITE ld_hrnasci.
+WRITE ld_dtnasci DD/MM/YYYY LEFT-JUSTIFIED.
+*WRITE ld_hrnasci+0(2) LEFT-JUSTIFIED. "Pegando somente a hora. Está começando da posição 0 e pegando as duas próximas casas.
+*WRITE ld_hrnasci+2(2) LEFT-JUSTIFIED. "Pegando somente os minutos. Está começando da posição 2 e pegando as duas próximas casas.
+*WRITE ld_hrnasci+4(2) LEFT-JUSTIFIED. "Pegando somente os segundos. Está começando da posição 4 e pegando as duas próximas casas.
+
+WRITE ld_dtnasci DD/MM/YYYY LEFT-JUSTIFIED.
+WRITE: ld_hrnasci+0(2), ':', ld_hrnasci+2(2), ':', ld_hrnasci+4(2).
 NEW-LINE.
 
-WRITE 'Peso'.
-WRITE ld_peso.
+WRITE (15) 'Peso'.
+WRITE ld_peso LEFT-JUSTIFIED.
 NEW-LINE.
 
-WRITE 'Descrição'.
-WRITE ld_desc.
+WRITE (15) 'Descrição'.
+WRITE ld_desc LEFT-JUSTIFIED.
 NEW-LINE.
 
-WRITE 'Login'.
-WRITE ld_login.
+WRITE (15) 'Login'.
+WRITE ld_login LEFT-JUSTIFIED.
 NEW-LINE.

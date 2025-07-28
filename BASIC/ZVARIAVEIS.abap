@@ -5,7 +5,7 @@
 *&---------------------------------------------------------------------*
 REPORT zvariaveis.
 
-*Declarando vari·veis in hard-code.
+*Declarando vari√°veis in hard-code.
 DATA ld_id TYPE i.            "Tipo inteiro
 DATA ld_nome(40) TYPE c.            "Tipo char/texto
 DATA ld_dtnasci TYPE d.            "Tipo data
@@ -14,7 +14,7 @@ DATA ld_peso(6) TYPE p DECIMALS 3. "Tipo decimal
 DATA ld_desc TYPE string.       "Tipo string
 DATA ld_login(5) TYPE n.            "Tipo numerico, com 0 a esquerda
 
-*Preenchendo as vari·veis
+*Preenchendo as vari√°veis
 ld_id = 15.
 ld_nome = 'Renan Mendes'.
 ld_dtnasci = '199903206'.
@@ -44,7 +44,7 @@ WRITE 'Peso'.
 WRITE ld_peso.
 NEW-LINE.
 
-WRITE 'DescriÁ„o'.
+WRITE 'Descri√ß√£o'.
 WRITE ld_desc.
 NEW-LINE.
 

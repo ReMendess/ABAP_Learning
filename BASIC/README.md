@@ -1,7 +1,3 @@
-# ABAP
-## BASIC.
-
-
 # Criando Tabelas Z, Domains e Data Types
 <p align="center">
 <img src="/assets/TabelaZ.png" >

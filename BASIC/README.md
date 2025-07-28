@@ -16,3 +16,13 @@
 <p align="center">
 <img src="/assets/PrimeiroProgII.png" >
 </p>
+
+# Programa Z de Cálculo de Média com Parâmetros.
+<p align="center">
+<img src="/assets/Parametros.png" >
+</p>
+
+<p align="center">
+<img src="/assets/ParametrosII.png" >
+</p>
+

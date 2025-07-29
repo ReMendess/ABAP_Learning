@@ -9,7 +9,7 @@ Este é um repositório único e exclusivamente para evidenciar e compartilhar m
 Baixei e instalei o MiniSap em minha própria máquina para esse treinamento.
 
 <p align="center">
-<img src="assets/MiniSap.png" >
+<img src="/assets/MiniSap.png" >
 </p>
 
 

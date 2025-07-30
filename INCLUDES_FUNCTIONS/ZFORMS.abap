@@ -16,6 +16,7 @@ SELECTION-SCREEN END OF BLOCK b1.
 START-OF-SELECTION.
   DATA ld_media(12) TYPE p DECIMALS 2.
 
+*FORM interno, está no final do programa
   PERFORM calcular_media.
 
 *Condições

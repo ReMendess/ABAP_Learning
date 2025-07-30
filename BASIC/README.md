@@ -26,3 +26,13 @@
 <img src="/assets/ParametrosII.png" >
 </p>
 
+# Criando Text Elements
+
+<p align="center">
+  <img src="/assets/TextSymbol.png" width="550"/>
+  <img src="/assets/TextSymbol2.png" width="500"/>
+</p>
+
+<p align="center">
+<img src="/assets/TextSymbol3.png" width="550">
+</p>

@@ -36,3 +36,14 @@
 <p align="center">
 <img src="/assets/TextSymbol3.png" width="550">
 </p>
+
+
+# Criando Classe de Mensagens
+
+<p align="center">
+<img src="/assets/ClasseMensagem.png" >
+</p>
+
+<p align="center">
+<img src="/assets/ClasseMensagem.png" >
+</p>

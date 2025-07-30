@@ -4,7 +4,8 @@
 
 
 # Explicação
-Este é um repositório único e exclusivamente para evidenciar e compartilhar meus códigos em ABAP. Enquanto estudo e aprendo com meu curso.
+Este é um repositório único e exclusivamente para evidenciar e compartilhar meus códigos em ABAP. Enquanto estudo e aprendo com meus cursos.
+Cada pasta/Diretório tem códigos e algumas imagens explicativas do contéudo.
 
 Baixei e instalei o MiniSap em minha própria máquina para esse treinamento.
 

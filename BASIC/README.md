@@ -1,14 +1,14 @@
-# Criando Tabelas Z, Domains e Data Types
+## Criando Tabelas Z, Domains e Data Types
 <p align="center">
 <img src="/assets/TabelaZ.png" >
 </p>
 
-# Criando um Pacote.
+## Criando um Pacote.
 <p align="center">
 <img src="/assets/Criando_Pacote.png" >
 </p>
 
-# Criando Primeiro Programa Z.
+## Criando Primeiro Programa Z.
 <p align="center">
 <img src="/assets/PrimeiroProg.png" >
 </p>
@@ -17,7 +17,7 @@
 <img src="/assets/PrimeiroProgII.png" >
 </p>
 
-# Programa Z de Cálculo de Média com Parâmetros.
+## Programa Z de Cálculo de Média com Parâmetros.
 <p align="center">
 <img src="/assets/Parametros.png" >
 </p>
@@ -26,7 +26,7 @@
 <img src="/assets/ParametrosII.png" >
 </p>
 
-# Criando Text Elements
+## Criando Text Elements
 
 <p align="center">
   <img src="/assets/TextSymbol.png" width="550"/>
@@ -38,7 +38,7 @@
 </p>
 
 
-# Criando Classe de Mensagens
+## Criando Classe de Mensagens
 
 <p align="center">
 <img src="/assets/ClasseMensagem.png" >
@@ -47,3 +47,23 @@
 <p align="center">
 <img src="/assets/ClasseMensagem.png" >
 </p>
+
+## Tabelas Internas
+
+<p align="center">
+<img src="/assets/TabelaInterna.png" >
+</p>
+
+## Estruturas de Repetição
+
+<p align="center">
+  <img src="/assets/Do.png" width="550"/>
+  <img src="/assets/while.png" width="550"/>
+</p>
+
+<p align="center">
+<img src="/assets/Loop.png">
+</p>
+
+
+

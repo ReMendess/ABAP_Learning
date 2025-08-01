@@ -45,3 +45,20 @@ ENDWHILE.
 *  WRITE: 'sy-index', sy-index.
 *  WRITE: 'sy-tabix', sy-tabix.
 *ENDWHILE.
+
+**Criando um WHILE infinito
+*WRITE 'WHILE Infinito'.
+*NEW-LINE.
+*
+*WHILE 1 = 1.
+*
+*  READ TABLE lt_plane INTO ls_plane INDEX sy-index.
+*  WRITE: ls_plane-planetype, ls_plane-seatsmax.
+*  NEW-LINE.
+*
+*  IF sy-index > 5.
+*    EXIT. " Para não quebrar é necessário colocar uma condição para sair do WHILE.
+*
+*  ENDIF.
+*
+*ENDWHILE.
